@@ -15,35 +15,29 @@
 | [7° top](#smileys--emotion)  | :🤸‍♂️: | `:Training:´ | :🙂: | `:smiley:` |[100%](#table-of-contents) |
 | [8° top](#smileys--emotion)  | :👟: | `:Tenis:´ | :🙂: | `:smiley:` |[top](#table-of-contents) |
 
-## Horá 
+##  
 
-Ensaio  | 08:00 |ás 09:30  | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
+essay  | 08:00 |ás 09:30  | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-Ensaio |  | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
+essay |  | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
 
 <p align="center">
 
-# Colunas: 
+# Columns:
   
-|Column1|Column1|Column1|
+|columns|columns|columns|
 |:----|:----:|----:|
-|Column1|Column1|Column1|
+|columns|columns|columns|
 </p>
 <p align="center">
 
-# Colunas:De medidas: 
-  
-|Calçados1|Camisa2|sapato1|
-|:----|:----:|----:|
-||1|1|
-</p>
 
-# Alinhamento de Texto:
+# Alignment of text:
 
 | Sintaxe      | Descrição| Texto de teste     |
 | :---        |    :----:   |          ---: |
-| Cabeçalho      | Titulo       | Aqui esta   |
-| Paragraph   | Texto        | E mais       |
+| header      | html       | body   |
+|    | align        | <br>      |
 
 # Markdown :
 ``Use `code` in your Markdown file.``
@@ -65,7 +59,7 @@ Ensaio |  | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
       </head>
     </html>
     
-   # regras horizontais 
+   # horizontal rules
    
  ***
 
@@ -77,17 +71,9 @@ _________________
 - [ ] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
-- [ ] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
-- [ ] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
-- [ ] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
 
-# Usando códigos de atalho de emoji:
+
+# Using Emoji Shortcut Codes:
 
 Gone camping! :tent: Be back soon.
 
@@ -101,7 +87,7 @@ That is so funny! :joy:
   "age": 45
 }
 ```
-# Notas de rodapé
+# Notas de rodapé :footnotes
 
 Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 
@@ -121,6 +107,7 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1*89F0`
 
 ## Você pode usar a difftag language para gerar algum texto colorido:
+  #
 ```diff
 
 - text in red
